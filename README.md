@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm 莫靖言 👋
+
+
 
 <!--
 **MoJingYan/MoJingYan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoJingYan)
+</br>
+![](https://img.shields.io/badge/Vue-Vue2%2F3%20-green)
+![](https://img.shields.io/badge/Javascript-Es6%20-orange)
+![](https://img.shields.io/badge/C%23-.Net%20Core%2F.Net%205%20%2F%20.Net%206-red)
