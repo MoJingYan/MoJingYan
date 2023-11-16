@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Vue-Vue2%2F3%20-green)
 ![](https://img.shields.io/badge/Javascript-Es6%20-orange)
 ![](https://img.shields.io/badge/C%23-.Net%20Core%2F.Net%205%20%2F%20.Net%206-red)
+
+
+
+![Metrics](https://metrics.lecoq.io/mojingyan?template=classic&isocalendar=1&starlists=1&calendar=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&starlists=false&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&calendar=false&calendar.limit=1&fortune=false&config.timezone=Asia%2FShanghai)
