@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 
 
-![Metrics](https://metrics.lecoq.io/mojingyan?template=classic&isocalendar=1&starlists=1&calendar=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&starlists=false&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&calendar=false&calendar.limit=1&fortune=false&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/mojingyan?template=classic&isocalendar=1&calendar=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&calendar=false&calendar.limit=1&fortune=false&config.timezone=Asia%2FShanghai)
